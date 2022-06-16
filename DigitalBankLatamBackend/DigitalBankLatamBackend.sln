@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalBankLatamBackend", "DigitalBankLatamBackend\DigitalBankLatamBackend.csproj", "{F8E305E8-5EA2-497B-B9C8-54C66E55FA3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital.Bank.Latam.Api.Abstractions", "Digital.Bank.Latam.Api.Abstractions\Digital.Bank.Latam.Api.Abstractions.csproj", "{681A12C0-7106-44DB-A175-DC8D5476A1B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital.Bank.Latam.Api.Entities", "Digital.Bank.Latam.Api.Entities\Digital.Bank.Latam.Api.Entities.csproj", "{B126E173-3B37-4F71-8F78-1DC9E78305D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital.Bank.Latam.Api.EntityFramework", "Digital.Bank.Latam.Api.EntityFramework\Digital.Bank.Latam.Api.EntityFramework.csproj", "{A626B703-C537-4884-8470-F3DA687A7842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital.Bank.latam.Api.Data.Transfer.Object", "Digital.Bank.latam.Api.Data.Transfer.Object\Digital.Bank.latam.Api.Data.Transfer.Object.csproj", "{D29E2F9E-1F55-4AFA-BC2E-749CAC1F3696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital.Bank.Latam.Api.Logic", "Digital.Bank.Latam.Api.Logic\Digital.Bank.Latam.Api.Logic.csproj", "{DB5E8CC5-003D-40D4-9889-B95B5304A0E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8E305E8-5EA2-497B-B9C8-54C66E55FA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E305E8-5EA2-497B-B9C8-54C66E55FA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E305E8-5EA2-497B-B9C8-54C66E55FA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E305E8-5EA2-497B-B9C8-54C66E55FA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{681A12C0-7106-44DB-A175-DC8D5476A1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681A12C0-7106-44DB-A175-DC8D5476A1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681A12C0-7106-44DB-A175-DC8D5476A1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681A12C0-7106-44DB-A175-DC8D5476A1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B126E173-3B37-4F71-8F78-1DC9E78305D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B126E173-3B37-4F71-8F78-1DC9E78305D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B126E173-3B37-4F71-8F78-1DC9E78305D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B126E173-3B37-4F71-8F78-1DC9E78305D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A626B703-C537-4884-8470-F3DA687A7842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A626B703-C537-4884-8470-F3DA687A7842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A626B703-C537-4884-8470-F3DA687A7842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A626B703-C537-4884-8470-F3DA687A7842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29E2F9E-1F55-4AFA-BC2E-749CAC1F3696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29E2F9E-1F55-4AFA-BC2E-749CAC1F3696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29E2F9E-1F55-4AFA-BC2E-749CAC1F3696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29E2F9E-1F55-4AFA-BC2E-749CAC1F3696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5E8CC5-003D-40D4-9889-B95B5304A0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5E8CC5-003D-40D4-9889-B95B5304A0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5E8CC5-003D-40D4-9889-B95B5304A0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5E8CC5-003D-40D4-9889-B95B5304A0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AEE24D2-CEB7-49D9-9088-3557CC629041}
+	EndGlobalSection
+EndGlobal

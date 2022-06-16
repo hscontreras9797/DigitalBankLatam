@@ -1,0 +1,39 @@
+<div fxLayout="column" class="card-container">
+  <div fxFlex fxLayout="row" class="card-header">
+    <div fxFlex>
+      <h3>Usuarios</h3>
+    </div>
+    <div fxFlex="10" fxLayoutAlign="end center">
+      <mat-icon (click)="onAdd()">add</mat-icon>
+    </div>
+  </div>
+  <div fxFlex class="card-body">
+    <ngx-datatable class="material"
+      [rows]="rows"
+      [columnMode]="'force'"
+      [headerHeight]="50"
+      [footerHeight]="50"
+      [rowHeight]="50"
+      [limit]="11">
+
+      <ngx-datatable-column name="name"></ngx-datatable-column>
+      <ngx-datatable-column name="Fecha_Nacimiento"></ngx-datatable-column>
+      <ngx-datatable-column name="Sexo"></ngx-datatable-column>
+      <ngx-datatable-column name="State">
+        <ng-template let-row="row" ngx-datatable-cell-template>
+          <span>
+            {{ row.state ? 'Activo' : 'Inactivo'}}
+          </span>
+        </ng-template>
+      </ngx-datatable-column>
+
+      <ngx-datatable-column name="Options">
+        <ng-template let-row="row" ngx-datatable-cell-template>
+          <mat-icon class="options btn-delete" (click)="onDelete(row)">delete</mat-icon>
+          <mat-icon class="options btn-edit" (click)="onUpdate(row)">edit</mat-icon>
+        </ng-template>
+      </ngx-datatable-column>
+    </ngx-datatable>
+
+  </div>
+</div>

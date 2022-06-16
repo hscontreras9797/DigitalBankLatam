@@ -1,0 +1,12 @@
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.latam.Api.Data.Transfer.Object\bin\Debug\net5.0\Digital.Bank.latam.Api.Data.Transfer.Object.deps.json
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.latam.Api.Data.Transfer.Object\bin\Debug\net5.0\Digital.Bank.latam.Api.Data.Transfer.Object.dll
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.latam.Api.Data.Transfer.Object\bin\Debug\net5.0\Digital.Bank.latam.Api.Data.Transfer.Object.pdb
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.latam.Api.Data.Transfer.Object\obj\Debug\net5.0\Digital.Bank.latam.Api.Data.Transfer.Object.csproj.AssemblyReference.cache
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.latam.Api.Data.Transfer.Object\obj\Debug\net5.0\Digital.Bank.latam.Api.Data.Transfer.Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.latam.Api.Data.Transfer.Object\obj\Debug\net5.0\Digital.Bank.latam.Api.Data.Transfer.Object.AssemblyInfoInputs.cache
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.latam.Api.Data.Transfer.Object\obj\Debug\net5.0\Digital.Bank.latam.Api.Data.Transfer.Object.AssemblyInfo.cs
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.latam.Api.Data.Transfer.Object\obj\Debug\net5.0\Digital.Bank.latam.Api.Data.Transfer.Object.csproj.CoreCompileInputs.cache
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.latam.Api.Data.Transfer.Object\obj\Debug\net5.0\Digital.Bank.latam.Api.Data.Transfer.Object.dll
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.latam.Api.Data.Transfer.Object\obj\Debug\net5.0\refint\Digital.Bank.latam.Api.Data.Transfer.Object.dll
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.latam.Api.Data.Transfer.Object\obj\Debug\net5.0\Digital.Bank.latam.Api.Data.Transfer.Object.pdb
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.latam.Api.Data.Transfer.Object\obj\Debug\net5.0\ref\Digital.Bank.latam.Api.Data.Transfer.Object.dll

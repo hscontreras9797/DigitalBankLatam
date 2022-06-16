@@ -1,0 +1,15 @@
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.Latam.Api.Entities\bin\Debug\net5.0\Digital.Bank.Latam.Api.Entities.deps.json
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.Latam.Api.Entities\bin\Debug\net5.0\Digital.Bank.Latam.Api.Entities.runtimeconfig.json
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.Latam.Api.Entities\bin\Debug\net5.0\Digital.Bank.Latam.Api.Entities.runtimeconfig.dev.json
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.Latam.Api.Entities\bin\Debug\net5.0\Digital.Bank.Latam.Api.Entities.dll
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.Latam.Api.Entities\bin\Debug\net5.0\Digital.Bank.Latam.Api.Entities.pdb
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.Latam.Api.Entities\obj\Debug\net5.0\Digital.Bank.Latam.Api.Entities.csproj.AssemblyReference.cache
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.Latam.Api.Entities\obj\Debug\net5.0\Digital.Bank.Latam.Api.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.Latam.Api.Entities\obj\Debug\net5.0\Digital.Bank.Latam.Api.Entities.AssemblyInfoInputs.cache
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.Latam.Api.Entities\obj\Debug\net5.0\Digital.Bank.Latam.Api.Entities.AssemblyInfo.cs
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.Latam.Api.Entities\obj\Debug\net5.0\Digital.Bank.Latam.Api.Entities.csproj.CoreCompileInputs.cache
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.Latam.Api.Entities\obj\Debug\net5.0\Digital.Bank.Latam.Api.Entities.dll
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.Latam.Api.Entities\obj\Debug\net5.0\refint\Digital.Bank.Latam.Api.Entities.dll
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.Latam.Api.Entities\obj\Debug\net5.0\Digital.Bank.Latam.Api.Entities.pdb
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.Latam.Api.Entities\obj\Debug\net5.0\Digital.Bank.Latam.Api.Entities.genruntimeconfig.cache
+C:\Users\harol\source\repos\DigitalBankLatamBackend\Digital.Bank.Latam.Api.Entities\obj\Debug\net5.0\ref\Digital.Bank.Latam.Api.Entities.dll

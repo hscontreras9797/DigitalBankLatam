@@ -1,0 +1,61 @@
+<div fxLayout="column" class="card-container">
+  <div fxFlex fxLayout="row" class="card-header">
+    <div fxFlex>
+      <h3>Usuarios</h3>
+    </div>
+    <div fxFlex="10" fxLayoutAlign="end center">
+      <mat-icon (click)="onList()">view_list</mat-icon>
+    </div>
+  </div>
+  <div fxFlex class="card-body">
+    <form [formGroup]="formGroup" fxLayout="column" (ngSubmit)="onSubmit()">
+      <div fxFlex fxLayout="row" fxLayoutGap="10px">
+
+         <!--Sexo-->
+        <mat-form-field fxFlex="25" appearance="fill" class="tipo">
+          <mat-label>Sexo</mat-label>
+          <mat-select formControlName="sexo" disableRipple>
+            <mat-option value="M">Masculino</mat-option>
+            <mat-option value="F">Femenino</mat-option>
+          </mat-select>
+        </mat-form-field>
+
+
+
+        <!--Name-->
+        <mat-form-field fxFlex="45">
+          <mat-label>Names</mat-label>
+          <input matInput placeholder="Name" formControlName="name">
+        </mat-form-field>
+
+        <!--Estado-->
+        <div fxFlex="10" fxLayoutAlign="end center" fxLayout="row">
+          <mat-slide-toggle fxFlex formControlName="state">Estado</mat-slide-toggle>
+        </div>
+      </div>
+
+      <div fxFlex fxLayout="row" fxLayoutGap="10px">
+
+        <!--FechaNacimiento-->
+        <mat-form-field fxFlex="58">
+          <mat-label>Fecha_Nacimiento</mat-label>
+          <input matInput type="date" placeholder="Fecha" formControlName="Fecha_Nacimiento">
+        </mat-form-field>
+
+
+
+      </div>
+
+      <!--Save-->
+      <div fxFlex fxLayout="row" fxLayoutAlign="end center">
+        <div fxFlex *ngIf="client">
+          <span>El cliente se creo correctamente con el id {{client.id}}</span>
+        </div>
+        <button fxFlex="10" mat-button [disabled]="formGroup.invalid">Guardar</button>
+      </div>
+    </form>
+
+
+  </div>
+</div>
+

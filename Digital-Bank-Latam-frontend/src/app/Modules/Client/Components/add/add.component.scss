@@ -1,0 +1,40 @@
+$boder-color: #cec5c5;
+
+.card-container {
+  background-color: white;
+  border: 1px solid $boder-color;
+  border-radius: 5px;
+
+  .card-header {
+    border-bottom: 1px solid $boder-color;
+
+    h3 {
+      padding-left: 20px;
+      margin: 0;
+      font-weight: 400;
+      color: #212121;
+    }
+
+    mat-icon {
+      cursor: pointer;
+
+      &:hover {
+        color: #424242;
+        text-shadow: 1px 1px 1px #c5c5c5;
+      }
+    }
+  }
+
+  .card-body {
+    padding: 15px;
+  }
+
+  .tipo{
+    height: auto;
+
+  }
+}
+
+::ng-deep .ngx-datatable.material {
+  box-shadow: none;
+}
